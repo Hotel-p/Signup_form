@@ -63,21 +63,21 @@ a{
     flex: 7.5;
     box-sizing: border-box;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 2rem;
+    font-size: 1.5rem;
     width: 65%;
     background-color: rgb(41, 38, 38);
     color: white;
-    padding: 144px 96px;
+    padding: 108px 96px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    gap: 128px;
+    gap: 24px;
 }
 
 .top{
     display: flex;
     flex-direction: column;
-    gap: 64px;
+    gap: 36px;
     padding-right: max(2rem, 30%);
 }
 
@@ -112,7 +112,7 @@ input{
     background-color: rgb(41, 38, 38);
     border-bottom: 1px solid white;
     width: 80%;
-    font-size: 24px;
+    font-size: 18px;
 }
 
 input:focus{
